@@ -1,4 +1,4 @@
-# Sample Store REST API
+# Sample Store REST API and FAST API
 
 A REST API built with **FastAPI** for the `sample_store` PostgreSQL database
 (the one created by `setup_sample_db.py`). Provides full CRUD endpoints for
